@@ -1,3 +1,11 @@
+"""
+Author: Isaac Goodin
+Date Created: 2/5/2010
+Last Updated: 11/5/2010
+
+Class that creates produceral terrain
+"""
+
 from Noise import *
 import numpy
 import math
